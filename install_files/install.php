@@ -1,7 +1,7 @@
 <?php include 'install_files/php/boot.php'; ?>
 <html ng-app="installer">
 <head>
-	<title>Youtubify - Installation</title>
+	<title>Easy - Installation</title>
 
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
