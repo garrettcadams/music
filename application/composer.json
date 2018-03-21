@@ -5,8 +5,8 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		 "gd": "*"
-		"ext-mbstring": "*"
+		 "gd": "*",
+		"ext-mbstring": "*",
 		"laravel/framework": "5.0.*",
 	  	"guzzlehttp/guzzle": "5.3.*",
 	  	"laravel/socialite": "3.0.*@dev",
