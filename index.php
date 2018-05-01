@@ -1,6 +1,6 @@
 <?php
 
-define('IS_DEMO', (gethostname() === 'youtubify' ? 1 : 0));
+define('IS_DEMO', (gethostname() === 'localhost' ? 1 : 0));
 define('VERSION', '2.0.3');
 
 if ( ! file_exists(__DIR__.'/application/.env') && file_exists(__DIR__.'/install_files')) { require_once __DIR__.'/install_files/install.php'; exit; }
